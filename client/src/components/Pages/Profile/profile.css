@@ -1,0 +1,6 @@
+.profile{
+    display: flex;
+}
+.profileDetails{
+    flex-grow: 1;
+}

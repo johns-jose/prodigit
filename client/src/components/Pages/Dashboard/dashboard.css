@@ -1,0 +1,6 @@
+.dashboard{
+    display: flex;
+}
+.userlist{
+    flex-grow: 1;
+}

@@ -1,0 +1,22 @@
+.messenger-contain {
+    display: flex;
+}
+
+.messenger {
+    flex-grow: 1;
+    display: flex;
+}
+
+.chatBox {
+    flex: 5.5;
+    
+}
+
+.chatBoxWrapper{
+  display: flex;
+  flex-direction: column;
+
+}
+.chatRight{
+    flex: 2.3;
+}
